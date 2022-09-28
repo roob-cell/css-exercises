@@ -24,3 +24,27 @@ img {
   justify-content: center;
   background: #eee;
 }
+
+/* My code */
+
+.title {
+  text-align: center;
+  padding: 15px;
+  margin: 32px;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  }
+
+.box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 200px;
+  flex-wrap: wrap;
+  text-align: center;
+  margin: auto 52px;
+  
+}
